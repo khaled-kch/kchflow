@@ -1,6 +1,6 @@
 {
-  "display": "@xyflow/system",
-  "extends": "@xyflow/tsconfig/base.json",
+  "extends": "@kchflow/tsconfig/base.json",
+  "display": "@kchflow/system",
   "compilerOptions": {
     "lib": ["dom", "esnext"],
     "module": "esnext",

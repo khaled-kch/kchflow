@@ -1,6 +1,6 @@
 {
-  "extends": "@xyflow/tsconfig/react.json",
-  "display": "@xyflow/react",
+  "extends": "@kchflow/tsconfig/react.json",
+  "display": "@kchflow/react",
   "include": ["**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules", "dist"]
 }
